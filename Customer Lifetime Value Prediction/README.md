@@ -1,4 +1,4 @@
-### 1. **Customer Lifetime Value Prediction**
+### **Customer Lifetime Value Prediction**
 
 **Business Problem:**  
 Customer Lifetime Value (CLV) is the total revenue a business can expect from a customer throughout their relationship with the company. For an auto insurance company, predicting CLV is essential for identifying and retaining high-value customers, optimizing marketing budgets, and improving profitability. Retaining valuable customers is cheaper than acquiring new ones, making CLV a key metric for business growth.

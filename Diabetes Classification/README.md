@@ -1,4 +1,4 @@
-### 2. **Diabetes Classification**
+### **Diabetes Classification**
 
 **Business Problem:**  
 The goal of this project is to predict whether individuals in the Pima Indians Diabetes Database, collected by the "National Institute of Diabetes and Digestive and Kidney Diseases," have diabetes or not. Early detection of diabetes allows for timely treatment and management, reducing health risks associated with the disease. The dataset contains various health indicators such as insulin levels, BMI, age, and more. Using logistic regression, we aim to classify whether a subject has diabetes based on these indicators.
