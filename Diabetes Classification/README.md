@@ -1,8 +1,3 @@
-
-Here’s the README for your **Diabetes Classification** project using the revised format and outlining the key steps and outcomes:
-
----
-
 ### 2. **Diabetes Classification**
 
 **Business Problem:**  

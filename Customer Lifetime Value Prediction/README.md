@@ -1,7 +1,3 @@
-Here’s a revised structure for your **Customer Lifetime Value Prediction** project that reflects the changes you want to make:
-
----
-
 ### 1. **Customer Lifetime Value Prediction**
 
 **Business Problem:**  
